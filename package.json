@@ -1,0 +1,24 @@
+{
+  "name": "chrome_ext_example",
+  "version": "0.0.1",
+  "author": "Nicholas Hwang <nick.joosung.hwang@gmail.com>",
+  "license": "MIT",
+  "description": "Chrome Extension Example",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "*",
+    "chai": "*",
+    "coffee-script": "*",
+    "gulp": "*",
+    "gulp-coffee": "*",
+    "gulp-concat": "*",
+    "gulp-jade": "*",
+    "gulp-order": "*",
+    "gulp-plumber": "*",
+    "gulp-rimraf": "*",
+    "gulp-ruby-sass": "*",
+    "gulp-uglify": "*",
+    "gulp-watch": "*",
+    "mocha": "*"
+  }
+}
